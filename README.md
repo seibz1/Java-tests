@@ -1,6 +1,6 @@
-# 💫 repositório-prova-básico
+# 💫 Java-tests!
 
-Bem-vindo ao **repositório-prova-básico**! ✨
+Bem-vindo ao ** Java-tests!**! ✨
 
 Este repositório foi cuidadosamente projetado como um projeto Java fundamental, ideal para demonstrações, exercícios básicos e prática de programação Java. Oferece uma base de código intuitiva e de fácil compreensão para ajudar você a dar os primeiros passos na programação Java ou servir como referência para implementações simples.
 
